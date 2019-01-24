@@ -1,0 +1,38 @@
+body{
+    margin: 200px 50px;
+    background-color: lightblue
+}
+h1{
+    text-align: center;
+    font-family: fantasy; 
+    color: coral;
+}
+board{
+    border: 3em;
+    text-align: center;
+}
+.row > div {
+    float: left;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    text-
+}
+.row {
+    clear: both;
+    margin: 0 auto;
+    width: 302px;
+    cursor: pointer;
+}
+.top {
+    border-bottom: 1px solid black;
+}
+.left {
+    border-right: 1px solid black;
+}
+.right {
+    border-left: 1px solid black;
+}
+.bottom {
+    border-top: 1px solid black;
+}
